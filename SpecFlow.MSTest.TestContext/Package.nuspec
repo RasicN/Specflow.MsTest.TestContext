@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SpecFlow.MSTest.TestContext</id>
+    <version>0.0.1</version>
+    <authors>Joe Cisar</authors>
+    <owners>Joe Cisar</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Allow for TestContext in SpecFlow</description>
+    <releaseNotes>Initial commit</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags></tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="\SpecFlow.MSTest.Testing\bin\Release\SpecFlow.MSTest.Testing.dll" target="lib\SpecFlow.MSTest.Testing.dll" />
+  </files>
+</package>
